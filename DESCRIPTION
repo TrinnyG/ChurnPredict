@@ -1,0 +1,11 @@
+Package: ChurnPredict
+Type: Package
+Title: Predict churn probability
+Version: 0.1.0
+Author: Trinh Gsponer
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Return churn probability for specific customer
+Depends: R(>= 3.0.1), data.table
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
